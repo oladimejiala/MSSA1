@@ -10,7 +10,11 @@ The department of Donga was created in 1999 when it was split off from Atakora D
 Donga is subdivided into five communes, each centered at one of the principal towns: 
 Bassila, Copargo, Djougou Rural, Djougou Urban and Ouaké
 
+MSSA -1 selected Ouake, a rural commune withing Donga department that comprises of majorly Loopa Speaker. Ouake is also a border town with the Republic of Togo, and as such experiences inflow of Togolese during markets days, where are Togolese settlers in this part of Benin.
+
 ## Borgou department
+The Capital of this department is seated in Parakou, also Northern part of Benin Republic. However, this study selected Bembereke district/Commune where the highest prevalence of Schistosomiasis and GeoHelminthiasis was recorded in the previous survey. So this study also includes anemia prevalence alongside with cases of anemmia and malaria reported/treated at the health Center, Ouake.
+
 
 
 
